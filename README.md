@@ -1,6 +1,6 @@
 # 🌍 World Development Explorer
 
-[![CI](https://github.com//world-dev-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/mueed26/world-dev-explorer/actions/workflows/ci.yml)
+[![CI](https://github.com/mueed26/world-dev-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/mueed26/world-dev-explorer/actions/workflows/ci.yml)
 ![R](https://img.shields.io/badge/R-4.4-276DC3?logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-bslib%20%2B%20Bootstrap%205-blue)
 ![Tests](https://img.shields.io/badge/tests-75%20passing-brightgreen)
@@ -260,7 +260,7 @@ No API key is needed. The World Bank API is free and public.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/world-dev-explorer.git
+git clone https://github.com/mueed26/world-dev-explorer.git
 cd world-dev-explorer
 ```
 
