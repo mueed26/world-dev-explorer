@@ -1,0 +1,24 @@
+.bslib-value-box .value-box-value {
+  font-size: 1.6rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bslib-value-box .value-box-title {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.about h4 {
+  margin-top: 1.25rem;
+}
+
+.about li {
+  margin-bottom: 0.4rem;
+}

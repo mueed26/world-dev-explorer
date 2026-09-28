@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# App data cache (rebuilt automatically from the World Bank API)
+cache/
+
+# Deployment
+rsconnect/
+
+# OS / editor
+.DS_Store
+Thumbs.db
