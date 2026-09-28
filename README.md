@@ -11,6 +11,11 @@
 development indicators for 214 countries, powered by live data from the
 [World Bank Open Data API](https://data.worldbank.org).**
 
+### 🔗 [**Try the live app →**](https://mueed26.shinyapps.io/world-dev-explorer/)
+
+> Hosted on the shinyapps.io free tier: if nobody has visited for a while, the
+> first load takes about 20–30 seconds while the app wakes up and fetches data.
+
 ---
 
 ## 📑 Table of contents
